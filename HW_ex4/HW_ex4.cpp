@@ -15,7 +15,7 @@ int main() {
         }
     }
 
-    cout << S << endl;
+    cout << S << endl; 
 
     return 0;
 }
